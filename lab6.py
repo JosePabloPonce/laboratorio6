@@ -15,7 +15,7 @@ from hashlib import blake2b
 from hashlib import sha512
 
 
-##############parte1##############
+##############parte1###############
 
 print("SHA256")
 h = sha256()
